@@ -1,6 +1,8 @@
 # MAS-MPC
 Model Reference Adaptive Control-Based Distributed MPC for Leaderless UAV Swarm Formation Flight under Switching Directed Graphs.
 
+![image](video_no_author.png)
+
 ## Introduction
 MAS-MPC is a distributed control framework for a leaderless UAV swarm formation system in complex environments, which takes wind disturbance and obstacles into account.
 
